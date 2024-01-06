@@ -5,4 +5,4 @@ st.set_page_config(initial_sidebar_state="collapsed")
 st.title("Home")
 
 if st.button("Get Started"):
-    switch_page("app.py")
+    switch_page("app")
